@@ -1,0 +1,1 @@
+worker: python A1.py
